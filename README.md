@@ -10,7 +10,7 @@
 ## 2. python 알려주는 youtube 만들기
 24.08.25(일) ~  진행중 ...
 
-![바로가기 링크](https://github.com/oneweekoneproduct/owop-side-project/blob/main/python/readme.md)
+[프로젝트 바로가기 링크](https://github.com/oneweekoneproduct/owop-side-project/blob/main/python/readme.md)
 
 ## 3. javascript / web development 알려주는 youtube 만들기
 24.08.25(일) ~  진행중 ...
