@@ -14,7 +14,10 @@
 
 ## 3. javascript / web development 알려주는 youtube 만들기
 24.08.25(일) ~  진행중 ...
+
 [프로젝트 바로가기 링크](https://github.com/oneweekoneproduct/owop-side-project/blob/main/web-development/README.md)
+
+
 ### 3-1. Svelete + Markdown Blog + Github CMS
 24.08.25(일) ~  진행중 ...
 #### 기획 이것도 되니?
