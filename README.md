@@ -10,14 +10,20 @@
 ***
 <mark>**행동, 판단 기준** : 당장 내 통장에 돈이 얼마나 들어오는지, 얼마나 빠르게 들어오는지?</mark>
 
-# 진행중인 프로젝트
+# 지금 하는것
+## <mark>**1. 강의수익화하기 > a. `Blog App Svelte`로 만들기**</mark>
+
+## 진행중인 프로젝트
 1. 강의 수익화하기 - 클론 프로젝트로 쇼부보자
-  - a. `Blog App Svelte`로 만들기
-  - b. `Blol App NextJS`로 만들기 
-  - c. `PySide6 메모장 앱` 만들기
+   - a. `Blog App Svelte`로 만들기
+   - b. `Blol App NextJS`로 만들기 
+   - c. `PySide6 메모장 앱` 만들기
 2. 애드센스 블로그 글쓰기 (PTS)
-  - a. 공부하면서 조회수 최대한 빨아보자
-  -  
+   - a. 공부하면서 조회수 최대한 빨아보자
+  
+3. OWOP 개발하기
+   - a. UI 기획하기
+   - b. Balsamiq으로 Blog글 쓰기
 ***
 ***
 
