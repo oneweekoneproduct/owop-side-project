@@ -12,7 +12,11 @@
 
 # One Thing (지금 집중 해야하는것)
 ## <mark>**1. 강의수익화하기 > a. `Blog App Svelte`로 만들기**</mark>
+볼 강의 리스트
+1. https://www.youtube.com/watch?v=6lNrvFSRmwY
+2. https://www.youtube.com/watch?v=7KD7rq5Vo_Y
 
+***
 ## Todo List
 1. 강의 수익화하기 - 클론 프로젝트로 쇼부보자
    - a. `Blog App Svelte`로 만들기
