@@ -10,10 +10,10 @@
 ***
 <mark>**행동, 판단 기준** : 당장 내 통장에 돈이 얼마나 들어오는지, 얼마나 빠르게 들어오는지?</mark>
 
-# 지금 하는것
+# One Thing (지금 집중 해야하는것)
 ## <mark>**1. 강의수익화하기 > a. `Blog App Svelte`로 만들기**</mark>
 
-## 진행중인 프로젝트
+## Todo List
 1. 강의 수익화하기 - 클론 프로젝트로 쇼부보자
    - a. `Blog App Svelte`로 만들기
    - b. `Blol App NextJS`로 만들기 
@@ -24,6 +24,12 @@
 3. OWOP 개발하기
    - a. UI 기획하기
    - b. Balsamiq으로 Blog글 쓰기
+  
+## Todo List Life
+1. 편집학원 등록하기
+   - a. 국비 내일배움카드 만들기
+
+
 ***
 ***
 
