@@ -19,5 +19,9 @@
 
 
 
-### 4. One Week One Product 사이트 개발
-지금 할거 많습니다 ~
+## 4. One Week One Product 사이트 개발
+
+- [ ] 사이트 UI 다시 기획하기
+- [ ] 
+
+
